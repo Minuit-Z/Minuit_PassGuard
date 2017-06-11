@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Minuit_PassGuard</string>
+    <string name="title_activity_fab">Fab Activity</string>
+
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="alert_text">Enter some text</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="action_show">Show</string>
+
+    <string name="snackbar_text">Snackbar Text</string>
+    <string name="some_text">Some Text</string>
+</resources>
